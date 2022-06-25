@@ -1,0 +1,27 @@
+html, body{
+    height: 100%;
+}
+body{
+    background-image: url(img/bc.jpg);
+    background-size: cover;
+}
+.form-login{
+    background: #eff3f476;
+    border-radius: 30px;
+    padding: 20px;
+    margin: auto;
+    max-width: 450px;
+    width: 100%;
+    text-align: center;
+}
+.btn-primary{
+    background: #002aff;
+    border: 0;
+}
+.btn-primary:hover{
+    background: #e429cf;
+}
+.text-info{
+        margin-bottom: 20px;
+      
+}
